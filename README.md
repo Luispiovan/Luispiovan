@@ -1,5 +1,3 @@
-https://github.com/Luispiovan
-
 ### Hi there! I'm Luís Piovan 👋
 
   - Knowlodge is power! I’m trying to be above the average.
@@ -38,7 +36,7 @@ https://github.com/Luispiovan
 <div> 
   <a href="https://www.linkedin.com/in/luis-guilherme-piovan-costa-622489178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Luispiovan/Luispiovan/image/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Luispiovan/Luispiovan/blob/main/image/github-contribution-grid-snake.svg)
  
 </div>
 
