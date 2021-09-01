@@ -1,4 +1,4 @@
-### Hi there! I'm Luís Piovan 👋
+### Hi there! I'm [Luís Piovan][website] 👋
 
   - Knowlodge is power! I’m trying to be above the average.
   - I currently work at Sawluz / Taggen - as Junior Programmer for EDI Systems, Logistic Processes and Electronic Tax Documents. I'm working with Angular on front-end and .NET for back-end.  
@@ -33,10 +33,14 @@
   
   ##
  
-<div> 
+### Connect with me:
+  ##
+                                                                                                     
+<div>
   <a href="https://www.linkedin.com/in/luis-guilherme-piovan-costa-622489178" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/Luispiovan/Luispiovan/blob/main/image/github-contribution-grid-snake.svg)
- 
 </div>
 
+
+[website]: https://luispiovan.github.io/
