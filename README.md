@@ -2,7 +2,7 @@
 
   - Knowlodge is power! I’m trying to be above the average.
   - I currently work at Sawluz / Taggen - as Junior Programmer for EDI Systems, Logistic Processes and Electronic Tax Documents. I'm working with Angular on front-end and .NET for back-end.  
-  - I’m currently learning Software Engineering of Unicamp.
+  - I'm currently taking a postgraduate course in Software Engineering at Unicamp.
   - I’m passionate about technology, sports, music, cinema, dogs, games and of course, my family!
 
 ### My Experiences
